@@ -5,6 +5,8 @@ Read the blog: [Use GPT-3 to seed MURAL]()
 
 See the demo video: [Use OpenAI's GPT models to seed a prospective hindsight exercise in MURAL](https://youtu.be/TAA_1OULRJ8)
 
+*See other MURAL API samples: [MURAL API samples main repo](https://github.com/spackows/MURAL-API-Samples)
+
 <img src="images/OpenAI-API-MURAL-prospective-hindsight.gif" width="90%" alt="Seeding a mural using GPT-3" />
 
 
